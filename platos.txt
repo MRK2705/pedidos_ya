@@ -1,1 +1,2 @@
 [crear platos]
+[imagen de platos]
