@@ -2,3 +2,4 @@
 [añadir usuario]
 [eliminar usuario]
 [modificar usuario]
+[crear pin]
