@@ -17,12 +17,12 @@ Requisitos para la ejecución del proyecto
 
 ### Clona el proyecto de github
 
-git clone git@github.com:Arquitectura-de-Software-01-2023/DIscordBot.git
+* git clone git@github.com:Arquitectura-de-Software-01-2023/DIscordBot.git
 
 
 Instalación de paquetes requeridos:
 
-npm install (si no tiene nodeJS instalado en su sistema)
+* npm install (si no tiene nodeJS instalado en su sistema)
 
 ### Preparación del bot de discord
 1. Habilite el modo desarrollador en su perfil de discord Get your development Guild (Discord Server) Id by enabling Developer Mode in settings and right-clicking your guild.
@@ -37,17 +37,17 @@ Para una ayuda visual ingrese al siguiente enlace:
 ### Genera el template
 Para generar el template debe ubicarse en la ruta "src/" del proyecto y ejecutar el siguiente comando desde la terminal
 
-node generate_template/generate.js
+* node generate_template/generate.js
 
 ### Registrar comandos
 Ejecute el siguiente comando para registrar los comandos que podrá usar el bot en el servidor de discord:
 
-node register_commands/register.js
+* node register_commands/register.js
 
 ### Construya y ejecute el proyecto
 Para construir y ejecutar el poryecto, ejecute el siguiente comando en la terminal:
 
-sam build && sam deploy --guided
+* sam build && sam deploy --guided
 
 Mientras se va construyendo el proyecto le apareceran unos mensajes con terminación [y/n]
 Presione enter hasta que vea el siguiente mensaje:
@@ -73,7 +73,7 @@ Para copiar la url de VALUE en el lugar correcto, siga las instrucciones del enl
 ## Detener la ejecución del proyecto
 Detenga el proyecto ejecutando el siguiente comando desde la terminal:
 
-sam delete
+* sam delete
 
 Puede utilizar las siguientes herramientas para ejecutar el codigo:
 
