@@ -1,7 +1,7 @@
 # Bot para Discord con AWS 
 
 # Integrantes:
-* Alarcon Aquize Mirko Alejandro: [![GitHub]([![GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)](URL_de_tu_perfil_de_Git)
+* Alarcon Aquize Mirko Alejandro: [![GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com/MRK2705)
 (https://github.com/MRK2705)
 * Quiroga Perez Alex: 
 
