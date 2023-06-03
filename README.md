@@ -1,7 +1,7 @@
 # Bot para Discord con AWS 
 
 #Integrantes:
-*Alarcon Aquize Mirko Alejandro: [![Git](https://img.shields.io/badge/Git-Profile-blue)](https://github.com/MRK2705)
+*Alarcon Aquize Mirko Alejandro: [!Octocat](https://img.shields.io/badge/Git-Profile-blue)](https://github.com/MRK2705)
 *Quiroga Perez Alex: 
 
 ## Diagrama propuesto de la arquitectura del proyecto
