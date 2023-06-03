@@ -60,11 +60,11 @@ Una vez finalizada la construcción del poryecto le aparecerá lo siguiente:
 ------------------------------------------
 Outputs
 ------------------------------------------
-Key                 ProxyGWEndpoint
-Description         API Gateway endpoint URL to pass 
-                    to Discord Application Portal
-Value               https://s0meur1.execute-api.zone
-                    -name-1.amazonaws.com/Prod/
+- Key                 ProxyGWEndpoint
+- Description         API Gateway endpoint URL to pass 
+                      to Discord Application Portal
+-Value                https://s0meur1.execute-api.zone
+                      -name-1.amazonaws.com/Prod/
 ------------------------------------------
 
 Debe copiar el enlace de VALUE y pegarlo en la configuración del bot de discord, en el apartado de "Interactions endpoint URL"
