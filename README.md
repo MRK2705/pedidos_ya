@@ -63,7 +63,7 @@ Outputs
 - Key                 ProxyGWEndpoint
 - Description         API Gateway endpoint URL to pass 
                       to Discord Application Portal
--Value                https://s0meur1.execute-api.zone
+- Value               https://s0meur1.execute-api.zone
                       -name-1.amazonaws.com/Prod/
 ------------------------------------------
 
